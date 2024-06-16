@@ -1,4 +1,4 @@
-Lab 09a - Implement Web Apps
+# Lab 09a - Implement Web Apps
 ## Lab introduction
 
 In this lab, you learn about Azure web apps. You learn to configure a web app to display a Hello World application in an external GitHub repository. You learn to create a staging slot and swap with the production slot. You also learn about autoscaling to accommodate demand changes.
